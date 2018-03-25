@@ -1,0 +1,26 @@
+{ 
+	"voc": {
+			"git_enrich":"git_voc",
+			"github_enrich":"github_voc"
+	},
+	"toga": {
+			"git_enrich":"git_toga",
+			"github_enrich":"github_toga"
+	},
+	"cricket": {
+			"git_enrich":"git_cricket",
+			"github_enrich":"github_cricket"
+	},
+	"grimoirelab-elk": {
+			"git_enrich":"git_grimoirelab-elk",
+			"github_enrich":"github_grimoirelab-elk"
+	},
+	"grimoirelab-manuscripts": {
+			"git_enrich":"git_grimoirelab-manuscripts",
+			"github_enrich":"github_grimoirelab-manuscripts"
+	},
+	"xbmc": {
+			"git_enrich": "git_en_repo-plugins",
+			"github_enrich": "github_en_repo-plugins"
+	}
+}

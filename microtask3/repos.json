@@ -1,0 +1,33 @@
+{ 
+	"pybee": {
+			"voc": {
+					"url":"https://github.com/pybee/voc.git"
+				},
+			"cricket": {
+					"url":"https://github.com/pybee/cricket.git"
+				},
+			"toga": {
+					"url":"https://github.com/pybee/toga.git"
+				}
+	},
+	"chaoss": {
+			"grimoirelab-elk": {
+					"url":"https://github.com/chaoss/grimoirelab-elk.git"
+				},
+			"grimoirelab-manuscripts": {
+					"url":"https://github.com/chaoss/grimoirelab-manuscripts.git"
+				},
+			"grimoirelab-perceval": {
+					"url":"https://github.com/chaoss/grimoirelab-perceval.git"
+				}
+	},
+	"xbmc": {
+			"repo-plugins": {
+					"url": "https://github.com/xbmc/repo-plugins.git",
+					"git_raw":"git_raw_repo-plugins",
+					"github_raw": "github_raw_repo-plugins",
+					"git_enrich": "git_en_repo-plugins",
+					"github_enrich": "github_en_repo-plugins"
+				}
+	}
+}

@@ -1,0 +1,67 @@
+{
+    "maintainers": {
+        "2015-08-23": {
+            "name": "ABC",
+            "gender": "M",
+            "age": "18",
+            "education": "bachelors",
+            "action": "added"
+        },
+        "2015-12-15": {
+            "name": "RRP",
+            "gender": "M",
+            "age": "20",
+            "education": "bachelors",
+            "action": "added"
+        },
+        "2016-03-15": {
+            "name": "VBR",
+            "gender": "F",
+            "age": "23",
+            "education": "masters",
+            "action": "added"
+        },
+        "2016-08-15": {
+            "name": "ERT",
+            "gender": "M",
+            "age": "21",
+            "education": "bachelors",
+            "action": "added"
+        },
+        "2016-10-15": {
+            "name": "NKNK",
+            "gender": "M",
+            "age": "22",
+            "education": "bachelors",
+            "action": "added"
+        },
+        "2016-12-25": {
+            "name": "VBR",
+            "action": "deleted"
+        },
+        "2017-05-15": {
+            "name": "NKNK",
+            "action": "deleted"
+        },
+        "2017-09-15": {
+            "name": "RTNJN",
+            "gender": "F",
+            "age": "25",
+            "education": "phd",
+            "action": "added"
+        },
+        "2017-11-15": {
+            "name": "GHTY",
+            "gender": "F",
+            "age": "23",
+            "education": "masters",
+            "action": "added"
+        },
+        "2018-01-15": {
+            "name": "TYU",
+            "action": "deleted"
+        }
+    },
+    "board": {
+    }
+}
